@@ -61,99 +61,139 @@
 </p>
 
 ### Соцсети
-<p align="left">
-<a href="https://www.youtube.com/channel/UCvh1w3INwuRsMKpdrJsccoA" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/youtube.svg"
-      width="48"
-      height="48"
-      alt="YouTube" />
-</a>
-<a href="https://discord.com/users/483248688668344321" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/discord.svg"
-      width="48"
-      height="48"
-      alt="Discord" />
-</a>      
-<a href="https://t.me/bnr_sp" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/telegram_app.svg"
-      width="48"
-      height="48"
-      alt="Telegram" />
-</a>
-<a href="https://join.skype.com/invite/zOWAvBNqeiGl" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/skype.svg"
-      width="48"
-      height="48"
-      alt="Skype" />
-</a>
-<a href="https://github.com/KonaloboStudio" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/octocat.svg"
-      width="48"
-      height="48"
-      alt="Github" />
-</a>
-<a href="https://steamcommunity.com/id/catmanteam" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/steam.svg"
-      width="48"
-      height="48"
-      alt="Steam" />
-</a>
-<a href="https://pinterest.com/BNR_SonicProject/" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/pinterest.svg"
-      width="48"
-      height="48"
-      alt="Pinterest" />
-</a>
-<a href="https://www.reddit.com/user/BrianN_YT/" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/reddit.svg"
-      width="48"
-      height="48"
-      alt="Reddit" />
-</a>
-<a href="https://open.spotify.com/user/31gpvoz3v2lu2gnvf4pvdgfohxci?si=6dbfdad55433481f" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/spotify.svg"
-      width="48"
-      height="48"
-      alt="Spotify" />
-</a>
-<a href="https://twitter.com/bnr_sp" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/twitter.svg"
-      width="48"
-      height="48"
-      alt="Twitter" />
-</a>
-<a href="https://spartaremix.fandom.com/wiki/KonaloboStudio" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/spartan_helmet.svg"
-      width="48"
-      height="48"
-      alt="Sparta Remix Wiki" />
-</a>
-<a href="https://ovk.to/konalobostudio" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/vkontakte.svg"
-      width="48"
-      height="48"
-      alt="OpenVK (NOT VK)" />
-</a>
-<a href="https://account.xbox.com/Profile?xr=mebarnav" target="_blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/xbox.svg"
-      width="48"
-      height="48"
-      alt="Xbox" />
-</a>
-</p>
+  <p class="br_soc_links" p align="left">
+    <a
+      class="br_soc_link"
+      href="https://www.youtube.com/channel/UCvh1w3INwuRsMKpdrJsccoA/about"
+      target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/youtube.svg"
+        width="48"
+        height="48"
+        title="YouTube"
+    /></a>
+    <a
+      class="br_soc_link"
+      href="https://boosty.to/konalobostudio"
+      target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/boosty.svg"
+        width="48"
+        height="48"
+        title="Boosty"
+    /></a>
+    <a
+      class="br_soc_link"
+      href="https://discord.com/users/483248688668344321"
+      target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/discord.svg"
+        width="48"
+        height="48"
+        title="Discord"
+    /></a>
+    <a class="br_soc_link" href="https://t.me/konalobogram" target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/telegram_app.svg"
+        width="48"
+        height="48"
+        title="Telegram Channel"
+    /></a>
+    <a
+      class="br_soc_link"
+      href="https://join.skype.com/invite/zOWAvBNqeiGl"
+      target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/skype.svg"
+        width="48"
+        height="48"
+        title="Skype"
+    /></a>
+    <a
+      class="br_soc_link"
+      href="https://matrix.to/#/@konalobostudio:matrix.org"
+      target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/matrix.svg"
+        width="48"
+        height="48"
+        title="Matrix"
+    /></a>
+    <a class="br_soc_link" href="https://ovk.to/konalobostudio" target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/ovk.svg"
+        width="48"
+        height="48"
+        title="OpenVK"
+    /></a>
+    <a class="br_soc_link" href="mailto:thesonicrus1@gmail.com" target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/gmail_logo.svg"
+        width="48"
+        height="48"
+        title="Public Gmail"
+    /></a>
+    <a
+      class="br_soc_link"
+      href="https://github.com/KonaloboStudio"
+      target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/octocat.svg"
+        width="48"
+        height="48"
+        title="Github"
+    /></a>
+    <a
+      class="br_soc_link"
+      href="https://open.spotify.com/user/31gpvoz3v2lu2gnvf4pvdgfohxci?si=6dbfdad55433481f"
+      target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/spotify.svg"
+        width="48"
+        height="48"
+        title="Spotify"
+    /></a>
+    <a
+      class="br_soc_link"
+      href="https://steamcommunity.com/id/catmanteam"
+      target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/steam.svg"
+        width="48"
+        height="48"
+        title="Steam"
+    /></a>
+    <a
+      class="br_soc_link"
+      href="https://www.reddit.com/user/BrianN_YT/"
+      target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/reddit.svg"
+        width="48"
+        height="48"
+        title="Reddit"
+    /></a>
+    <a
+      class="br_soc_link"
+      href="https://pinterest.com/BNR_SonicProject/"
+      target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/pinterest.svg"
+        width="48"
+        height="48"
+        title="Pinterest"
+    /></a>
+    <a
+      class="br_soc_link"
+      href="https://spartaremix.fandom.com/wiki/KonaloboStudio"
+      target="_blank"
+      ><img
+        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/spartan_helmet.svg"
+        width="48"
+        height="48"
+        title="Sparta Remix Wiki"
+    /></a>
+  </p>
 
 
 ### Badges
