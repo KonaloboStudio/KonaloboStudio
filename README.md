@@ -1,4 +1,4 @@
-### Языки программирования
+### Programming Languages
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
 <img
@@ -16,7 +16,7 @@
 </a>
 </p>  
 
-### Работал в этих программах
+### Worked in these programs
 <p align="left">
 <img
       src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/adobe_flash.svg"
@@ -60,7 +60,7 @@
       alt="Sony Vegas" />
 </p>
 
-### Соцсети
+### Social media
   <p class="br_soc_links" p align="left">
     <a
       class="br_soc_link"
@@ -197,8 +197,6 @@
 
 
 ### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/KonaloboStudio">
 <img
