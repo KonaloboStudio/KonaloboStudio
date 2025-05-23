@@ -1,5 +1,3 @@
-## A white pony with blue-black hair who loves seaside and near beach related themes, videos and music
-
 ### Programming Languages
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -76,16 +74,6 @@
     /></a>
     <a
       class="br_soc_link"
-      href="https://boosty.to/konalobostudio"
-      target="_blank"
-      ><img
-        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/boosty.svg"
-        width="48"
-        height="48"
-        title="Boosty"
-    /></a>
-    <a
-      class="br_soc_link"
       href="https://discord.com/users/483248688668344321"
       target="_blank"
       ><img
@@ -100,26 +88,6 @@
         width="48"
         height="48"
         title="Telegram Channel"
-    /></a>
-    <a
-      class="br_soc_link"
-      href="https://join.skype.com/invite/zOWAvBNqeiGl"
-      target="_blank"
-      ><img
-        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/skype.svg"
-        width="48"
-        height="48"
-        title="Skype"
-    /></a>
-    <a
-      class="br_soc_link"
-      href="https://matrix.to/#/@konalobostudio:matrix.org"
-      target="_blank"
-      ><img
-        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/matrix.svg"
-        width="48"
-        height="48"
-        title="Matrix"
     /></a>
     <a class="br_soc_link" href="https://ovk.to/konalobostudio" target="_blank"
       ><img
@@ -144,16 +112,6 @@
         width="48"
         height="48"
         title="Github"
-    /></a>
-    <a
-      class="br_soc_link"
-      href="https://open.spotify.com/user/31gpvoz3v2lu2gnvf4pvdgfohxci?si=6dbfdad55433481f"
-      target="_blank"
-      ><img
-        src="https://raw.githubusercontent.com/KonaloboStudio/KonaloboStudio/main/vectors/spotify.svg"
-        width="48"
-        height="48"
-        title="Spotify"
     /></a>
     <a
       class="br_soc_link"
